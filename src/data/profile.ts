@@ -4,9 +4,9 @@ export const profile = {
   roles: ["Full Stack Developer", "AI Engineer", "Problem Solver", "CS Student"],
   tagline:
     "I design and build intelligent software systems. As a Full Stack AI Developer, I combine modern web development with artificial intelligence to create scalable, smart, and impactful digital experiences.",
-  bio: "I'm a Computer Science student at FAST NUCES with a passion for shipping production-grade software. I build full-stack platforms with React and FastAPI, and I love bringing AI into real products — voice assistants, semantic search, and computer vision. I care deeply about clean architecture, accessibility, and creating tools that feel effortless to use.",
+  bio: "I'm a Computer Science Graduate from FAST NUCES with a passion for shipping production grade software. I build full stack platforms with React and FastAPI, and I love bringing AI into real products, voice assistants, semantic search, and data scraping. I care deeply about clean architecture, accessibility, and creating tools that feel effortless to use.",
   goal:
-    "Looking for full-stack and AI engineering roles where I can ship meaningful products, learn from senior engineers, and contribute to systems that scale.",
+    "Looking for full stack and AI engineering roles where I can ship meaningful products, learn from senior engineers, and contribute to systems that scale.",
   email: "abdurraheemshaikh155@gmail.com",
   location: "Pakistan",
   github: "https://github.com/abdurraheemshaikh",
@@ -15,7 +15,6 @@ export const profile = {
   education: {
     school: "FAST NUCES",
     degree: "BS Computer Science",
-    period: "2022 — 2026",
     detail: "Coursework: Data Structures, OS, Networks, AI, Distributed Systems, DBMS",
   },
   stats: [
