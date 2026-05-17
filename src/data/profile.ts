@@ -3,7 +3,7 @@ export const profile = {
   initials: "AR",
   roles: ["Full Stack Developer", "AI Engineer", "Problem Solver", "CS Student"],
   tagline:
-    "Computer Science student at FAST NUCES building AI-powered, full-stack experiences — from voice-driven RAG systems to real-time gesture recognition.",
+    "I design and build intelligent software systems. As a Full Stack AI Developer, I combine modern web development with artificial intelligence to create scalable, smart, and impactful digital experiences.",
   bio: "I'm a Computer Science student at FAST NUCES with a passion for shipping production-grade software. I build full-stack platforms with React and FastAPI, and I love bringing AI into real products — voice assistants, semantic search, and computer vision. I care deeply about clean architecture, accessibility, and creating tools that feel effortless to use.",
   goal:
     "Looking for full-stack and AI engineering roles where I can ship meaningful products, learn from senior engineers, and contribute to systems that scale.",
