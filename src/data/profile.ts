@@ -15,6 +15,7 @@ export const profile = {
   education: {
     school: "FAST NUCES",
     degree: "BS Computer Science",
+    period: "2022 — 2026",
     detail: "Coursework: Data Structures, OS, Networks, AI, Distributed Systems, DBMS",
   },
   stats: [
