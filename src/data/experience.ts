@@ -36,7 +36,6 @@ export const experience: ExperienceItem[] = [
     role: "BS Computer Science",
     org: "FAST NUCES",
     type: "Education",
-    dateRange: "2022 — 2026",
     bullets: [
       "Coursework: Data Structures, Operating Systems, Computer Networks, AI, Distributed Systems.",
       "Built academic projects in C++, Python, and JavaScript across systems, web, and AI domains.",
