@@ -18,8 +18,7 @@ export const skills: Skill[] = [
   { name: "React", level: 92, category: "Frontend", icon: "SiReact" },
   { name: "TypeScript", level: 85, category: "Frontend", icon: "SiTypescript" },
   { name: "Tailwind CSS", level: 90, category: "Frontend", icon: "SiTailwindcss" },
-  { name: "Next.js", level: 75, category: "Frontend", icon: "SiNextdotjs" },
-  { name: "Framer Motion", level: 78, category: "Frontend", icon: "SiFramer" },
+  
 
   // Backend
   { name: "FastAPI", level: 90, category: "Backend", icon: "SiFastapi" },
@@ -36,7 +35,7 @@ export const skills: Skill[] = [
   // Databases
   { name: "PostgreSQL", level: 85, category: "Databases", icon: "SiPostgresql" },
   { name: "MongoDB", level: 80, category: "Databases", icon: "SiMongodb" },
-  { name: "Redis", level: 65, category: "Databases", icon: "SiRedis" },
+ 
 
   // DevOps
   { name: "Docker", level: 82, category: "DevOps & Tools", icon: "SiDocker" },
