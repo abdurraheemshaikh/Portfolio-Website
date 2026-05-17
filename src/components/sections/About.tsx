@@ -65,7 +65,7 @@ export function About() {
                       {profile.education.school}
                     </h3>
                     <p className="text-sm text-muted-foreground">
-                      {profile.education.degree}
+                      {profile.education.degree} · {profile.education.period}
                     </p>
                     <p className="mt-2 text-xs text-muted-foreground">
                       {profile.education.detail}
